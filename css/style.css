@@ -1,0 +1,52 @@
+html{background-color: orange;}
+
+body{background-color: lightblue ;width: 80%;margin: auto; }
+
+nav a{color: #047f8c;font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;margin-right: 200px;line-height: 60px;}
+
+    nav a{color: #047f8c;font-family: "Josefin Sans", sans-serif;
+        font-optical-sizing: auto; font-size: 16px;
+        
+        font-style: normal;margin-left: 45px;}
+
+        img{height: 495px;width: 600pt;}
+    
+
+a {color: #3A400C;text-decoration: none;font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    }
+
+h1 {text-align: center;}
+
+h2{font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+
+h3{color: #ffffff;font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;color: #047f8c;}
+
+    p{font-family: "Lato", sans-serif;
+        font-weight: 400;
+        font-style: normal;font-size: 15px;}
+
+ul{font-family: "Josefin Sans", sans-serif;
+    }
+
+    div a{font-family: "Josefin Sans", sans-serif;
+        font-optical-sizing: auto;margin-right: 80px;}
+
+        div a{font-family: "Josefin Sans", sans-serif;
+            font-optical-sizing: auto;margin-left: 200px;}
+
+            hr p{font-family: "Lato", sans-serif;
+                font-weight: 400;
+                font-style: normal;text-align: center;margin-right: 80px;}
+
+
+aside img{height: 245px;width: 300px}
+
+footer{background-color: #04ADBF;}
+
